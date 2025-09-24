@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: a1a07b0eef98f48a990251fa6719913f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1649503520132388111
+    second: Red_Girl_Walk_0
+  - first:
+      213: 6885690112407036979
+    second: Red_Girl_Walk_1
+  - first:
+      213: 5589631403388226102
+    second: Red_Girl_Walk_2
+  - first:
+      213: 1572214504490322439
+    second: Red_Girl_Walk_3
+  - first:
+      213: -1209940417288015372
+    second: Red_Girl_Walk_4
+  - first:
+      213: -8074154118297315477
+    second: Red_Girl_Walk_5
+  - first:
+      213: 7695607658816751214
+    second: Red_Girl_Walk_6
+  - first:
+      213: -6450994611044998612
+    second: Red_Girl_Walk_7
+  - first:
+      213: 4415630890344449807
+    second: Red_Girl_Walk_8
+  - first:
+      213: -8228851505573469143
+    second: Red_Girl_Walk_9
+  - first:
+      213: -5361744321722101148
+    second: Red_Girl_Walk_10
+  - first:
+      213: -3577666820817009186
+    second: Red_Girl_Walk_11
+  - first:
+      213: -4909984156411777034
+    second: Red_Girl_Walk_12
+  - first:
+      213: 7863573773956849998
+    second: Red_Girl_Walk_13
+  - first:
+      213: 3617322097369859952
+    second: Red_Girl_Walk_14
+  - first:
+      213: 1854995534726960544
+    second: Red_Girl_Walk_15
+  - first:
+      213: -7005755205257074657
+    second: Red_Girl_Walk_16
+  - first:
+      213: 5514169929784936290
+    second: Red_Girl_Walk_17
+  - first:
+      213: 6334059551726629838
+    second: Red_Girl_Walk_18
+  - first:
+      213: -5951995364682704071
+    second: Red_Girl_Walk_19
+  - first:
+      213: -6002406003565664565
+    second: Red_Girl_Walk_20
+  - first:
+      213: 7464455076146128040
+    second: Red_Girl_Walk_21
+  - first:
+      213: -7508965403121652667
+    second: Red_Girl_Walk_22
+  - first:
+      213: -4851088448458481960
+    second: Red_Girl_Walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_Girl_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 161
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f055f3d46b634e610800000000000000
+      internalID: 1649503520132388111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 160
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334e07fdca2ee8f50800000000000000
+      internalID: 6885690112407036979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 160
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ac250752c529d40800000000000000
+      internalID: 5589631403388226102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 161
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70accda03c0a1d510800000000000000
+      internalID: 1572214504490322439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f82cd99d653fe0800000000000000
+      internalID: -1209940417288015372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67912dab97d2ff80800000000000000
+      internalID: -8074154118297315477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e664c82846a4cca60800000000000000
+      internalID: 7695607658816751214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2224b084967976a0800000000000000
+      internalID: -6450994611044998612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07093656e8774d30800000000000000
+      internalID: 4415630890344449807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924eadc672f3dcd80800000000000000
+      internalID: -8228851505573469143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462594772f14795b0800000000000000
+      internalID: -5361744321722101148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed540845bf2995ec0800000000000000
+      internalID: -3577666820817009186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffa7488c6b3cdbb0800000000000000
+      internalID: -4909984156411777034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 64
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41a6c53fa6012d60800000000000000
+      internalID: 7863573773956849998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 64
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077c6eb384f433230800000000000000
+      internalID: 3617322097369859952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 65
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a516535c944eb910800000000000000
+      internalID: 1854995534726960544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 64
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18ee4742ce86ce90800000000000000
+      internalID: -7005755205257074657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 64
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267c8f7f554468c40800000000000000
+      internalID: 5514169929784936290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f5de5a9917e750800000000000000
+      internalID: 6334059551726629838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 16
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bd05730c3466da0800000000000000
+      internalID: -5951995364682704071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 16
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ebc7ba8b23bca0800000000000000
+      internalID: -6002406003565664565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a42d87e752179760800000000000000
+      internalID: 7464455076146128040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 16
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c6c3400cbcac790800000000000000
+      internalID: -7508965403121652667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Girl_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 16
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de91af12c87dacb0800000000000000
+      internalID: -4851088448458481960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 26f80b434d9fe46dbad5c781a213c1dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red_Girl_Walk_0: 1649503520132388111
+      Red_Girl_Walk_1: 6885690112407036979
+      Red_Girl_Walk_10: -5361744321722101148
+      Red_Girl_Walk_11: -3577666820817009186
+      Red_Girl_Walk_12: -4909984156411777034
+      Red_Girl_Walk_13: 7863573773956849998
+      Red_Girl_Walk_14: 3617322097369859952
+      Red_Girl_Walk_15: 1854995534726960544
+      Red_Girl_Walk_16: -7005755205257074657
+      Red_Girl_Walk_17: 5514169929784936290
+      Red_Girl_Walk_18: 6334059551726629838
+      Red_Girl_Walk_19: -5951995364682704071
+      Red_Girl_Walk_2: 5589631403388226102
+      Red_Girl_Walk_20: -6002406003565664565
+      Red_Girl_Walk_21: 7464455076146128040
+      Red_Girl_Walk_22: -7508965403121652667
+      Red_Girl_Walk_23: -4851088448458481960
+      Red_Girl_Walk_3: 1572214504490322439
+      Red_Girl_Walk_4: -1209940417288015372
+      Red_Girl_Walk_5: -8074154118297315477
+      Red_Girl_Walk_6: 7695607658816751214
+      Red_Girl_Walk_7: -6450994611044998612
+      Red_Girl_Walk_8: 4415630890344449807
+      Red_Girl_Walk_9: -8228851505573469143
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
