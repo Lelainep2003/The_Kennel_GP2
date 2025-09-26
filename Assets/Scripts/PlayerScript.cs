@@ -29,11 +29,7 @@ public class PlayerScript : MonoBehaviour
         if (Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S))
             vel.y = -speed;
 
-        // Normalize for consistent diagonal speed
-        vel = vel.normalized;
-
-        // Apply movement using up-to-date API
-        RB.linearVelocity = vel * speed;
+        RB.linearVelocity = vel;
 
         // ANIMATOR HANDLING
         if (vel != Vector2.zero)
@@ -42,14 +38,14 @@ public class PlayerScript : MonoBehaviour
             animator.SetFloat("InputX", vel.x);
             animator.SetFloat("InputY", vel.y);
 
-            // Update last input only when moving
+            // Save last non-zero direction for idle
             animator.SetFloat("LastInputX", vel.x);
             animator.SetFloat("LastInputY", vel.y);
         }
         else
         {
             animator.SetBool("isWalking", false);
-            // Leave LastInputX/Y unchanged so player keeps facing last direction
+            // Do NOT overwrite LastInputX/Y here — keeps idle facing last direction
         }
     }
 }
